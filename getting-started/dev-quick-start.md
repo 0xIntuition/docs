@@ -70,7 +70,7 @@ Once you have your API Key you're ready to start building! You can dive right in
 
 We welcome feedback! Please reach out with questions, suggestions, and to share what you've been building! As we build our developer community we'll be expanding our available resources. We're excited to welcome and support builders.
 
-* For more on Intuition visit [www.intuition.systems](http://www.intuition.systems), follow us on [Twitter](https://twitter.com/0xIntuition), and join our [Discord](https://discord.gg/RcASAxbpHf)
+* For more on Intuition visit [intuition.systems](https://intuition.systems), follow us on [Twitter](https://twitter.com/0xIntuition), and join our [Discord](https://discord.gg/RcASAxbpHf)
 * For developer inquiries email [devrel@intuition.systems](mailto:devrel@intuition.sysstems)
 
 ### Links

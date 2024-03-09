@@ -19,9 +19,7 @@
 * [Primitives](primitives-and-interactions/primitives/README.md)
   * [Identities](primitives-and-interactions/primitives/identities.md)
   * [Claims](primitives-and-interactions/primitives/claims.md)
-* [Interactions](primitives-and-interactions/interacations/README.md)
-  * [Attestations](primitives-and-interactions/interacations/attestations.md)
-  * [Querying](primitives-and-interactions/interacations/query.md)
+  * [Attestations](primitives-and-interactions/primitives/attestations.md)
 
 ## 🌐 Protocol and Contracts
 

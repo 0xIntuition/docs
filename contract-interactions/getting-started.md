@@ -8,7 +8,7 @@ If you haven't already read through the [Protocol and Contracts](broken-referenc
 
 When building on the Intuition protocol there are offchain interactions (covered in the [API](broken-reference) section) and onchain interactions, which are covered in this section. The user journeys within our Portal app combine offchain and onchain interactions. Combining both of these types of flows are helpful to understand, even if you want to only integrate one type.&#x20;
 
-This section covers core onchain interactions that correspond to [Creating an Identity](../api/identities/create-an-identity.md) and [Creating a Claim](../api/claim/create-a-claim.md) as well as creating onchain [Attestations](../primitives-and-interactions/interacations/attestations.md).
+This section covers core onchain interactions that correspond to [Creating an Identity](../api/identities/create-an-identity.md) and [Creating a Claim](../api/claim/create-a-claim.md) as well as creating onchain [Attestations](../primitives-and-interactions/primitives/attestations.md).
 
 The examples and reference included in this section are included in our [Remix Starter Template](https://github.com/0xIntuition/app-template-remix) and are directly informed by how we use them in the Portal. Additionally, the examples used in our Starter (and covered in this section) can serve as a general guide for onchain interactions using Remix. You can follow the same patterns used and switch out the ABI and contract interactions at any point.&#x20;
 

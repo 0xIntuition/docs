@@ -4,10 +4,10 @@ description: Welcome to Intuition.
 
 # 👋 Introduction
 
-{% hint style="info" %}
-**NOTE: Preparing for Mainnet Launch**
+{% hint style="warning" %}
+**NOTE: We are very much in BETA.**
 
-As we gear up for our mainnet launch, please be aware that our documentation is currently a work-in-progress. Our team is fully committed to ensuring a smooth transition to production, which means updates to our docs might not keep pace with the latest developments. We encourage you to check back frequently for the most current information and updates. Your understanding and patience during this exciting time are greatly appreciated.
+Please be aware that our documentation is currently a work-in-progress. Our team is fully committed to the build-out of many core features of the Intuition system, which means updates to our docs might not keep pace with the latest developments. We encourage you to check back frequently for the most current information and updates. Your understanding and patience during this exciting time are greatly appreciated.
 {% endhint %}
 
 ### Who We Are

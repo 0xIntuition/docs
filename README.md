@@ -78,6 +78,8 @@ Flexible and efficient data retrieval for non-trivial use cases
 
 #### Recent Media & Appearances
 
+{% embed url="https://www.youtube.com/watch?v=Buc5TkuNi-0&ab_channel=ETHDenver" %}
+
 {% embed url="https://www.youtube.com/watch?v=SkU-AJRXkBs" %}
 
 {% embed url="https://decrypt.co/199326/how-on-chain-attestations-unlock-blockchains-most-valuable-use-cases" %}
